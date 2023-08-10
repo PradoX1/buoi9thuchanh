@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18f8e1a1-c2b5-4d25-8c19-89c38144f269" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi9thuchanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/entities/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/entities/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/entities/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/entities/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/service/WorkerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/trycatch/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/data/DataOfBet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/entities/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/service/PetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/trycatch/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/util/Type.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ThVtIW12kYYH2XAANEpSGunRWb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Techmaster/java21/Java-core/buoi8-arraylist/SummonerRift&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Techmaster/java21/Java-core/buoi9thuchanh/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18f8e1a1-c2b5-4d25-8c19-89c38144f269" name="Changes" comment="" />
+      <created>1691495514823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691495514823</updated>
+      <workItem from="1691495516064" duration="9708000" />
+      <workItem from="1691633433738" duration="16334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
